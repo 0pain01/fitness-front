@@ -16,7 +16,7 @@ const Register = () => {
         e.preventDefault();
         const x = {
             method:"post",
-            url:"http://localhost:3000/subs",
+            url:"https://fitness-web.onrender.com/subs",
             data: {
                 name,
                 email
