@@ -1,6 +1,7 @@
 # React Fitness Application
-
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+<p align="center">
+<img src="gym.jpg" alt="web-page-pic">
+</p>
 
 ## My Frontend server:
 https://fitness-front.vercel.app/
