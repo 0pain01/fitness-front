@@ -16,7 +16,7 @@ const Register = () => {
         e.preventDefault();
         const x = {
             method:"post",
-            url:"https://fitness-back-mw8a-yb7xi5npk-0pain01.vercel.app/subs",
+            url:"https://fitness-web.onrender.com/subs",
             data: {
                 name,
                 email
